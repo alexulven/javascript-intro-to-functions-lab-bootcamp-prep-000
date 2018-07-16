@@ -14,7 +14,11 @@ function logWhisper(word) {
   console.log(word.toLowerCase())
 }
 
-function 
+function sayHiToGrandma(word) {
+  if (word == word.toLowerCase()) {
+    
+  }
+}
 
 
 
